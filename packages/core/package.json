@@ -1,0 +1,29 @@
+{
+  "name": "@iarch-cli/core",
+  "version": "0.0.0",
+  "description": "iarch-cli core package",
+  "homepage": "https://github.com/ry928330/iarch-cli#readme",
+  "bugs": {
+    "url": "https://github.com/ry928330/iarch-cli/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ry928330/iarch-cli.git"
+  },
+  "license": "ISC",
+  "author": "ranyu <ranyu@pwrd.com>",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/core.test.js"
+  },
+  "devDependencies": {
+    "immoc-test-ry": "^1.0.0"
+  }
+}

@@ -1,0 +1,23 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    devDependencies:
+      immoc-test-ry:
+        specifier: ^1.0.0
+        version: 1.0.0
+
+packages:
+
+  immoc-test-ry@1.0.0:
+    resolution: {integrity: sha512-6FhMtEo36r5lfFPz2CId2ECzB2JhSAso47tiGdtZXUKhJWjAYTo/Lb6x6tFtC/VeqRXpnifjy+1cfXqT/NUiYw==}
+    hasBin: true
+
+snapshots:
+
+  immoc-test-ry@1.0.0: {}
