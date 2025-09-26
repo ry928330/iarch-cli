@@ -25,5 +25,6 @@
   },
   "devDependencies": {
     "immoc-test-ry": "^1.0.0"
-  }
+  },
+  "gitHead": "0142d27b44c3fe60782b3af799d51c26c95096e9"
 }
