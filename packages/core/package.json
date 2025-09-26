@@ -26,5 +26,8 @@
   "devDependencies": {
     "immoc-test-ry": "^1.0.0"
   },
-  "gitHead": "6a30000f65f4164731a961e9f70b200a34288ab4"
+  "gitHead": "1b175b7a1d121766e9e13943fba7c25e1858e85c",
+  "publishConfig": {
+    "access": "public"
+  }
 }
