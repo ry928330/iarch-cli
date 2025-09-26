@@ -3,5 +3,5 @@
 module.exports = core;
 
 function core() {
-  return "Hello from core, v1";
+  return "Hello from core";
 }
